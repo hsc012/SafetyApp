@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60921236087",
+    "project_id": "zeta-bebop-305422",
+    "storage_bucket": "zeta-bebop-305422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60921236087:android:8de7a1018a4069e812d472",
+        "android_client_info": {
+          "package_name": "com.example.phapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60921236087-8avu0th4mqjm44cpr76b47ja8febh6mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phapp",
+            "certificate_hash": "22f1ff2a7c198c4a9966cb05073a63aab51e36ea"
+          }
+        },
+        {
+          "client_id": "60921236087-l7jl8uj1ap9kib3ouu3r9024sgc5m73u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTUPkiwSzg3eK-o2PcWxOTXbTEW5tHrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60921236087-l7jl8uj1ap9kib3ouu3r9024sgc5m73u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
